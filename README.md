@@ -1,4 +1,4 @@
-# Lahman-s-Baseball-Database.-
+# Lahman-s-Baseball-Database
 A Python project to analyze Lahman's baseball database
 import pandas as pd
 import matplotlib.pyplot as plt
