@@ -1,9 +1,8 @@
 # Lahman-s-Baseball-Database<br />
 A Python project to analyze Lahman's baseball database<br />
-#Requirements<br />
 
-If you’re unfamiliar with baseball, you can find a quick summary of the objectives of the game here, though you don’t need to understand much about baseball to complete this project. You need to write a Python or R script that does the following:<br />
- 
+
+
 
 Connects to an SQL database file and queries for all players who have played at least 50 games and are still active.  Use the “finalGame” field from the “People” table to determine if a player is active. Retrieve weight, throws, bats, throws, all birth-related and all name-related columns from the “People” table and retrieve all columns from the “Batting” table.<br />
 Converts this data into either an R data frame or a pandas data frame.<br />
